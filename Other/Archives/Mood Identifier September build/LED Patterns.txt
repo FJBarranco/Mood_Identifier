@@ -1,0 +1,91 @@
+void LED_GYRRYGx3()
+{
+
+	digitalWrite(Green_LED, HIGH);
+	delay(100);
+	digitalWrite(Green_LED, LOW);
+	delay(100);
+
+	digitalWrite(Yellow_LED, HIGH);
+	delay(100);
+	digitalWrite(Yellow_LED, LOW);
+	delay(100);
+
+	digitalWrite(Red_LED, HIGH);
+	delay(100);
+	digitalWrite(Red_LED, LOW);
+	delay(100);
+
+	digitalWrite(Red_LED, HIGH);
+	delay(100);
+	digitalWrite(Red_LED, LOW);
+	delay(100);
+
+	digitalWrite(Yellow_LED, HIGH);
+	delay(100);
+	digitalWrite(Yellow_LED, LOW);
+	delay(100);
+	digitalWrite(Green_LED, HIGH);
+	delay(100);
+	digitalWrite(Green_LED, LOW);
+	delay(100);
+
+	digitalWrite(Green_LED, HIGH);
+	delay(100);
+	digitalWrite(Green_LED, LOW);
+	delay(100);
+
+	digitalWrite(Yellow_LED, HIGH);
+	delay(100);
+	digitalWrite(Yellow_LED, LOW);
+	delay(100);
+
+	digitalWrite(Red_LED, HIGH);
+	delay(100);
+	digitalWrite(Red_LED, LOW);
+	delay(100);
+
+	digitalWrite(Red_LED, HIGH);
+	delay(100);
+	digitalWrite(Red_LED, LOW);
+	delay(100);
+
+	digitalWrite(Yellow_LED, HIGH);
+	delay(100);
+	digitalWrite(Yellow_LED, LOW);
+	delay(100);
+	digitalWrite(Green_LED, HIGH);
+	delay(100);
+	digitalWrite(Green_LED, LOW);
+	delay(100);
+
+	digitalWrite(Green_LED, HIGH);
+	delay(100);
+	digitalWrite(Green_LED, LOW);
+	delay(100);
+
+	digitalWrite(Yellow_LED, HIGH);
+	delay(100);
+	digitalWrite(Yellow_LED, LOW);
+	delay(100);
+
+	digitalWrite(Red_LED, HIGH);
+	delay(100);
+	digitalWrite(Red_LED, LOW);
+	delay(100);
+
+	digitalWrite(Red_LED, HIGH);
+	delay(100);
+	digitalWrite(Red_LED, LOW);
+	delay(100);
+
+	digitalWrite(Yellow_LED, HIGH);
+	delay(100);
+	digitalWrite(Yellow_LED, LOW);
+	delay(100);
+	digitalWrite(Green_LED, HIGH);
+	delay(100);
+	digitalWrite(Green_LED, LOW);
+	delay(100);
+
+}

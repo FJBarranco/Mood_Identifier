@@ -1,0 +1,92 @@
+//=========================================================================================================================================================================================
+
+
+
+
+	// Testing Components
+
+	// LED's
+
+	//digitalWrite(Green_LED, HIGH);	// (Passed)
+	//delay(200);
+	//digitalWrite(Green_LED, LOW);		// (Passed)
+
+	//delay(200);
+	//digitalWrite(Yellow_LED, HIGH);	// (Passed)
+	//delay(200);
+	//digitalWrite(Yellow_LED, LOW);	// (Passed)
+
+	//delay(200);
+	//digitalWrite(Red_LED, HIGH);	// (Passed)
+	//delay(200);
+	//digitalWrite(Red_LED, LOW);	// (Passed)
+	//delay(200);
+
+
+//===============================================================================================================
+
+
+	// Buttons
+
+	//Red_ButtonState = digitalRead(Red_Button);
+	//Blue_ButtonState = digitalRead(Blue_Button);
+
+	//// Red Button	// (Passed)
+	//if (Red_ButtonState == HIGH)
+	//{
+	//	Serial.println("Red Button Pressed"); // Indicate the red button was pressed
+	//	delay(200);
+	//}
+	//else
+	//{
+	//	
+	//}
+
+	//// Blue Button	// (Passed)
+	//if (Blue_ButtonState == HIGH)
+	//{
+	//	Serial.println("Blue Button Pressed"); // Indicate the blue button was pressed
+	//	delay(200);
+	//}
+	//else
+	//{
+	//	
+	//}
+
+
+//===============================================================================================================
+
+
+	// Sensors
+
+	// HeartBeat Sensor (Passed)
+
+	/*int myBPM = pulseSensor.getBeatsPerMinute(); 
+
+	if (pulseSensor.sawStartOfBeat())
+	{
+		Serial.print("-----BPM: ");
+		Serial.println(myBPM);
+	}*/
+
+
+	// GSR Sensor (Passed)
+
+	/*GSRsensorValue = analogRead(GSR);
+	Serial.print("sensorValue=");
+	Serial.println(GSRsensorValue);*/
+
+
+//===============================================================================================================
+
+
+	//=====================================================================================================
+	// Component Test Notes
+
+        // -Remove Resistors from LED's (Direct 5 Volts)
+	// -Lower GSR value is a detection off stress (I hyperventilated and value decreased)
+
+	//=====================================================================================================
+
+
+//=========================================================================================================================================================================================

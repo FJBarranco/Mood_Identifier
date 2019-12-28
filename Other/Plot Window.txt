@@ -1,0 +1,1 @@
+{@Plot.MyPlotWindow.GSR.Green GSRsensorValue} {@Plot.MyPlotWindow.BPM.Blue myBPM}
